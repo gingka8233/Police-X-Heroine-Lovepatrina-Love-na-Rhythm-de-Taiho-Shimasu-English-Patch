@@ -38,14 +38,7 @@ You will need:
 
 **Important:** The exact installation path depends on your environment. Consult any installation instructions included in the release and back up original game data before making changes.
 
-## ⚠️ Known Limitations
-
-- This project is still under development.
-- Some Japanese text may remain untranslated.
-- Wording may be shortened slightly to fit the available UI space.
-- Some layouts may need further adjustments following in-game testing.
-- Not all reconstructed assets have been validated through gameplay.
-- Compatibility with every game version, emulator, or modding environment is not guaranteed.
+I've tested the patch on both emulator and original hardware, both are functional.
 
 ## 🐛 Bug Reports
 
@@ -75,8 +68,6 @@ Whenever possible, releases should distribute only localization changes rather t
 
 **English Fan Translation Project**
 
-Translation, graphical localization, asset editing, and testing: Community project.
-
-Thanks to the LovePatrina fan community and everyone contributing feedback and bug reports.
+Thanks to everyone contributing feedback and bug reports.
 
 All characters, artwork, trademarks, and original game content belong to their respective owners.
