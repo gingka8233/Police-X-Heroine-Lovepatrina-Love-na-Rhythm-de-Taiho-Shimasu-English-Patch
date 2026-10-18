@@ -30,11 +30,10 @@ You will need:
 
 ### Installation Steps
 
-1. Download the latest patch from the [Releases](../../releases) section.
+1. Download the latest patch from the [Releases](https://github.com/gingka8233/Police-X-Heroine-Lovepatrina-Love-na-Rhythm-de-Taiho-Shimasu-English-Patch/releases) section.
 2. Extract the archive.
-3. Follow the folder structure provided with the release.
-4. Place the replacement files in the 0100E55012BE8000 directory.
-5. Enable the mod and launch the game.
+4. Place the replacement files in the 0100E55012BE8000 directory in Atmosphere or Emulator directory.
+5. Launch the game.
 
 **Important:** The exact installation path depends on your environment. Consult any installation instructions included in the release and back up original game data before making changes.
 
